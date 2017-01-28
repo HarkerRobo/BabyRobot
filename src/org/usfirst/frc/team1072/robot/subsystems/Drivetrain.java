@@ -33,5 +33,9 @@ public class Drivetrain extends Subsystem {
         setDefaultCommand(new ManualDrive());
     }
     
+    public void toSmartDashboard() {
+    	
+    }
+    
 }
 
